@@ -1,0 +1,6 @@
+# Utility/generator files (not needed for deployment)
+generate_icons.ps1
+generate_icons.py
+generate_icons.html
+auto_generate_icons.html
+icons/.gitkeep
